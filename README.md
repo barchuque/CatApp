@@ -13,4 +13,6 @@
 ### Коллекция котиков
 
 ### Карточка котика
+![Simulator Screen Shot - iPhone 11 - 2021-09-17 at 15 53 07](https://user-images.githubusercontent.com/48614376/133785959-43010bb5-9df5-48c3-ae66-dc2da35061da.png)
+
 
